@@ -1,7 +1,7 @@
 {
-  "name": "cafeteria",
+  "name": "twinbnb",
   "version": "1.0.0",
-  "description": "Delivery App, BEM, SASS, Gulp, CSS Grid",
+  "description": "AirBnB App, BEM, SASS, Gulp, CSS Grid",
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
